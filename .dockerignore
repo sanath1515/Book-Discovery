@@ -1,0 +1,9 @@
+node_modules
+dist
+coverage
+.scannerwork
+package-lock.json
+Dockerfile
+.storybook
+.babelrc
+.idea

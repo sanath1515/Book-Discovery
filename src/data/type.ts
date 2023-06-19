@@ -1,0 +1,18 @@
+export type bookProp = {
+    id?:string,
+    title?:string,
+    author?:string,
+    category?:string,
+    pagesLeft?:number,
+    totalPages?:number,
+    rating?:number,
+    bookmark?:boolean,
+    addToLibrary?:boolean,
+    language?:string,
+    numberOfRatings?:number,
+    bookImage?:string,
+    authorImage?:string,
+    desc?:string,
+    releaseDate?:string,
+    pagesRead?:string,
+}

@@ -1,0 +1,803 @@
+{
+  "books": [
+    {
+      "id": "1",
+      "title": "Crystal chemistry",
+      "author": "Carlos Gonzalez",
+      "category": "Chemistry",
+      "pagesLeft": 200,
+
+      "totalPages": 200,
+      "rating": 5,
+      "bookmark": "false",
+      "addToLibrary": "false",
+      "language": "English",
+      "numberOfRatings": 1200,
+      "bookImage": "https://cdn.zeplin.io/5f03041d8c8fc11335546618/assets/E3EEB4FA-4DF1-491D-8A51-DC1C1921FB60.png",
+      "authorImage": "https://cdn.zeplin.io/5f03041d8c8fc11335546618/assets/8911A6F3-BE2F-4473-B410-40CA75BF34C6.png",
+      "releaseDate": "12 sep 1998",
+      "pagesRead": 0,
+
+      "desc": " Through a series of recent breakthroughs, deep learning has boosted the entire field of machine learning.Now, even programmers who know close to nothing about this technology can use simple, efficient tools to implement programs capable of learning from data.This practical book shows you how.By using concrete examples, minimal theory, and two production-ready Python frameworks—Scikit-Learn and TensorFlow—author Aurélien Géron helps you gain an intuitive understanding of the concepts and tools for building intelligent systems. You’ll learn a range of techniques, starting with simple linear regression and progressing to deep neural networks. With exercises in each of the concepts and tools for building intelligent systems. You’ll learn a range of techniques, starting with simple linear regression and progressing to deep neural networks."
+    },
+    {
+      "id": "2",
+      "title": "Basic Physics",
+      "author": "Carlos Gonzalez",
+      "category": "Physics",
+      "pagesLeft": 200,
+
+      "totalPages": 200,
+      "rating": 5,
+      "bookmark": "false",
+      "addToLibrary": "false",
+      "language": "English",
+      "numberOfRatings": 1200,
+      "bookImage": "https://cdn.zeplin.io/5f03041d8c8fc11335546618/assets/BFB91888-5030-4E35-878F-68EC357D95CE.png",
+      "authorImage": "https://cdn.zeplin.io/5f03041d8c8fc11335546618/assets/8911A6F3-BE2F-4473-B410-40CA75BF34C6.png",
+      "releaseDate": "12 sep 1998",
+      "pagesRead": 0,
+
+      "desc": " Through a series of recent breakthroughs, deep learning has boosted the entire field of machine learning.Now, even programmers who know close to nothing about this technology can use simple, efficient tools to implement programs capable of learning from data.This practical book shows you how.By using concrete examples, minimal theory, and two production-ready Python frameworks—Scikit-Learn and TensorFlow—author Aurélien Géron helps you gain an intuitive understanding of the concepts and tools for building intelligent systems. You’ll learn a range of techniques, starting with simple linear regression and progressing to deep neural networks. With exercises in each of the concepts and tools for building intelligent systems. You’ll learn a range of techniques, starting with simple linear regression and progressing to deep neural networks."
+    },
+    {
+      "id": "3",
+      "title": "Biology",
+      "author": "Carlos Gonzalez",
+      "category": "Biology",
+      "pagesLeft": 200,
+
+      "totalPages": 200,
+      "rating": 5,
+      "bookmark": "false",
+      "addToLibrary": "false",
+      "language": "English",
+      "numberOfRatings": 1200,
+      "bookImage": "https://cdn.zeplin.io/5f03041d8c8fc11335546618/assets/4788B451-0673-497A-A16D-D8459134BADE.png",
+      "authorImage": "https://cdn.zeplin.io/5f03041d8c8fc11335546618/assets/8911A6F3-BE2F-4473-B410-40CA75BF34C6.png",
+      "releaseDate": "12 sep 1998",
+      "pagesRead": 0,
+
+      "desc": " Through a series of recent breakthroughs, deep learning has boosted the entire field of machine learning.Now, even programmers who know close to nothing about this technology can use simple, efficient tools to implement programs capable of learning from data.This practical book shows you how.By using concrete examples, minimal theory, and two production-ready Python frameworks—Scikit-Learn and TensorFlow—author Aurélien Géron helps you gain an intuitive understanding of the concepts and tools for building intelligent systems. You’ll learn a range of techniques, starting with simple linear regression and progressing to deep neural networks. With exercises in each of the concepts and tools for building intelligent systems. You’ll learn a range of techniques, starting with simple linear regression and progressing to deep neural networks."
+    },
+    {
+      "id": "4",
+      "title": "Inorganic chemistry",
+      "author": "J D Lee",
+      "category": "Chemistry",
+      "pagesLeft": 200,
+
+      "totalPages": 200,
+      "rating": 5,
+      "bookmark": "false",
+      "addToLibrary": "false",
+      "language": "English",
+      "numberOfRatings": 1200,
+      "bookImage": "https://cdn.zeplin.io/5f03041d8c8fc11335546618/assets/E9028AA6-7EF2-4637-AA34-D2414E5F70B7.png",
+      "authorImage": "https://cdn.zeplin.io/5f03041d8c8fc11335546618/assets/C779DE0F-7D31-4FFA-A5FE-18E52218EC4E.png",
+      "releaseDate": "12 sep 1998",
+      "pagesRead": 0,
+
+      "desc": " Through a series of recent breakthroughs, deep learning has boosted the entire field of machine learning.Now, even programmers who know close to nothing about this technology can use simple, efficient tools to implement programs capable of learning from data.This practical book shows you how.By using concrete examples, minimal theory, and two production-ready Python frameworks—Scikit-Learn and TensorFlow—author Aurélien Géron helps you gain an intuitive understanding of the concepts and tools for building intelligent systems. You’ll learn a range of techniques, starting with simple linear regression and progressing to deep neural networks. With exercises in each of the concepts and tools for building intelligent systems. You’ll learn a range of techniques, starting with simple linear regression and progressing to deep neural networks."
+    },
+    {
+      "id": "5",
+      "title": "Bio organic chemistry",
+      "author": "Carlos Gonzalez",
+      "category": "Chemistry",
+      "pagesLeft": 200,
+
+      "totalPages": 200,
+      "rating": 5,
+      "bookmark": "false",
+      "addToLibrary": "false",
+      "language": "English",
+      "numberOfRatings": 1200,
+      "bookImage": "https://cdn.zeplin.io/5f03041d8c8fc11335546618/assets/E9028AA6-7EF2-4637-AA34-D2414E5F70B7.png",
+      "authorImage": "https://cdn.zeplin.io/5f03041d8c8fc11335546618/assets/8911A6F3-BE2F-4473-B410-40CA75BF34C6.png",
+      "releaseDate": "12 sep 1998",
+      "pagesRead": 0,
+
+      "desc": " Through a series of recent breakthroughs, deep learning has boosted the entire field of machine learning.Now, even programmers who know close to nothing about this technology can use simple, efficient tools to implement programs capable of learning from data.This practical book shows you how.By using concrete examples, minimal theory, and two production-ready Python frameworks—Scikit-Learn and TensorFlow—author Aurélien Géron helps you gain an intuitive understanding of the concepts and tools for building intelligent systems. You’ll learn a range of techniques, starting with simple linear regression and progressing to deep neural networks. With exercises in each of the concepts and tools for building intelligent systems. You’ll learn a range of techniques, starting with simple linear regression and progressing to deep neural networks."
+    },
+    {
+      "id": "6",
+      "title": "Crystal chemistry",
+      "author": "Carlos Gonzalez",
+      "category": "Chemistry",
+      "pagesLeft": 200,
+
+      "totalPages": 200,
+      "rating": 5,
+      "bookmark": "false",
+      "addToLibrary": "false",
+      "language": "English",
+      "numberOfRatings": 1200,
+      "bookImage": "https://cdn.zeplin.io/5f03041d8c8fc11335546618/assets/E3EEB4FA-4DF1-491D-8A51-DC1C1921FB60.png",
+      "authorImage": "https://cdn.zeplin.io/5f03041d8c8fc11335546618/assets/8911A6F3-BE2F-4473-B410-40CA75BF34C6.png",
+      "releaseDate": "12 sep 1998",
+      "pagesRead": 0,
+
+      "desc": " Through a series of recent breakthroughs, deep learning has boosted the entire field of machine learning.Now, even programmers who know close to nothing about this technology can use simple, efficient tools to implement programs capable of learning from data.This practical book shows you how.By using concrete examples, minimal theory, and two production-ready Python frameworks—Scikit-Learn and TensorFlow—author Aurélien Géron helps you gain an intuitive understanding of the concepts and tools for building intelligent systems. You’ll learn a range of techniques, starting with simple linear regression and progressing to deep neural networks. With exercises in each of the concepts and tools for building intelligent systems. You’ll learn a range of techniques, starting with simple linear regression and progressing to deep neural networks."
+    },
+    {
+      "id": "7",
+      "title": "Crystal chemistry",
+      "author": "Carlos Gonzalez",
+      "category": "Chemistry",
+      "pagesLeft": 200,
+
+      "totalPages": 200,
+      "rating": 5,
+      "bookmark": "false",
+      "addToLibrary": "false",
+      "language": "English",
+      "numberOfRatings": 1200,
+      "bookImage": "https://cdn.zeplin.io/5f03041d8c8fc11335546618/assets/E3EEB4FA-4DF1-491D-8A51-DC1C1921FB60.png",
+      "authorImage": "https://cdn.zeplin.io/5f03041d8c8fc11335546618/assets/8911A6F3-BE2F-4473-B410-40CA75BF34C6.png",
+      "releaseDate": "12 sep 1998",
+      "pagesRead": 0,
+
+      "desc": " Through a series of recent breakthroughs, deep learning has boosted the entire field of machine learning.Now, even programmers who know close to nothing about this technology can use simple, efficient tools to implement programs capable of learning from data.This practical book shows you how.By using concrete examples, minimal theory, and two production-ready Python frameworks—Scikit-Learn and TensorFlow—author Aurélien Géron helps you gain an intuitive understanding of the concepts and tools for building intelligent systems. You’ll learn a range of techniques, starting with simple linear regression and progressing to deep neural networks. With exercises in each of the concepts and tools for building intelligent systems. You’ll learn a range of techniques, starting with simple linear regression and progressing to deep neural networks."
+    },
+    {
+      "id": "8",
+      "title": "Basic Physics",
+      "author": "Carlos Gonzalez",
+      "category": "Physics",
+      "pagesLeft": 200,
+
+      "totalPages": 200,
+      "rating": 5,
+      "bookmark": "false",
+      "addToLibrary": "false",
+      "language": "English",
+      "numberOfRatings": 1200,
+      "bookImage": "https://cdn.zeplin.io/5f03041d8c8fc11335546618/assets/BFB91888-5030-4E35-878F-68EC357D95CE.png",
+      "authorImage": "https://cdn.zeplin.io/5f03041d8c8fc11335546618/assets/8911A6F3-BE2F-4473-B410-40CA75BF34C6.png",
+      "releaseDate": "12 sep 1998",
+      "pagesRead": 0,
+
+      "desc": " Through a series of recent breakthroughs, deep learning has boosted the entire field of machine learning.Now, even programmers who know close to nothing about this technology can use simple, efficient tools to implement programs capable of learning from data.This practical book shows you how.By using concrete examples, minimal theory, and two production-ready Python frameworks—Scikit-Learn and TensorFlow—author Aurélien Géron helps you gain an intuitive understanding of the concepts and tools for building intelligent systems. You’ll learn a range of techniques, starting with simple linear regression and progressing to deep neural networks. With exercises in each of the concepts and tools for building intelligent systems. You’ll learn a range of techniques, starting with simple linear regression and progressing to deep neural networks."
+    },
+    {
+      "id": "9",
+      "title": "Biology",
+      "author": "Carlos Gonzalez",
+      "category": "Biology",
+      "pagesLeft": 200,
+
+      "totalPages": 200,
+      "rating": 5,
+      "bookmark": "false",
+      "addToLibrary": "false",
+      "language": "English",
+      "numberOfRatings": 1200,
+      "bookImage": "https://cdn.zeplin.io/5f03041d8c8fc11335546618/assets/4788B451-0673-497A-A16D-D8459134BADE.png",
+      "authorImage": "https://cdn.zeplin.io/5f03041d8c8fc11335546618/assets/8911A6F3-BE2F-4473-B410-40CA75BF34C6.png",
+      "releaseDate": "12 sep 1998",
+      "pagesRead": 0,
+
+      "desc": " Through a series of recent breakthroughs, deep learning has boosted the entire field of machine learning.Now, even programmers who know close to nothing about this technology can use simple, efficient tools to implement programs capable of learning from data.This practical book shows you how.By using concrete examples, minimal theory, and two production-ready Python frameworks—Scikit-Learn and TensorFlow—author Aurélien Géron helps you gain an intuitive understanding of the concepts and tools for building intelligent systems. You’ll learn a range of techniques, starting with simple linear regression and progressing to deep neural networks. With exercises in each of the concepts and tools for building intelligent systems. You’ll learn a range of techniques, starting with simple linear regression and progressing to deep neural networks."
+    },
+    {
+      "id": "10",
+      "title": "Inorganic chemistry",
+      "author": "J D Lee",
+      "category": "Chemistry",
+      "pagesLeft": 200,
+
+      "totalPages": 200,
+      "rating": 5,
+      "bookmark": "false",
+      "addToLibrary": "false",
+      "language": "English",
+      "numberOfRatings": 1200,
+      "bookImage": "https://cdn.zeplin.io/5f03041d8c8fc11335546618/assets/E9028AA6-7EF2-4637-AA34-D2414E5F70B7.png",
+      "authorImage": "https://cdn.zeplin.io/5f03041d8c8fc11335546618/assets/C779DE0F-7D31-4FFA-A5FE-18E52218EC4E.png",
+      "releaseDate": "12 sep 1998",
+      "pagesRead": 0,
+
+      "desc": " Through a series of recent breakthroughs, deep learning has boosted the entire field of machine learning.Now, even programmers who know close to nothing about this technology can use simple, efficient tools to implement programs capable of learning from data.This practical book shows you how.By using concrete examples, minimal theory, and two production-ready Python frameworks—Scikit-Learn and TensorFlow—author Aurélien Géron helps you gain an intuitive understanding of the concepts and tools for building intelligent systems. You’ll learn a range of techniques, starting with simple linear regression and progressing to deep neural networks. With exercises in each of the concepts and tools for building intelligent systems. You’ll learn a range of techniques, starting with simple linear regression and progressing to deep neural networks."
+    },
+    {
+      "id": "11",
+      "title": "Bio organic chemistry",
+      "author": "Carlos Gonzalez",
+      "category": "Chemistry",
+      "pagesLeft": 200,
+
+      "totalPages": 200,
+      "rating": 5,
+      "bookmark": "false",
+      "addToLibrary": "false",
+      "language": "English",
+      "numberOfRatings": 1200,
+      "bookImage": "https://cdn.zeplin.io/5f03041d8c8fc11335546618/assets/E9028AA6-7EF2-4637-AA34-D2414E5F70B7.png",
+      "authorImage": "https://cdn.zeplin.io/5f03041d8c8fc11335546618/assets/8911A6F3-BE2F-4473-B410-40CA75BF34C6.png",
+      "releaseDate": "12 sep 1998",
+      "pagesRead": 0,
+
+      "desc": " Through a series of recent breakthroughs, deep learning has boosted the entire field of machine learning.Now, even programmers who know close to nothing about this technology can use simple, efficient tools to implement programs capable of learning from data.This practical book shows you how.By using concrete examples, minimal theory, and two production-ready Python frameworks—Scikit-Learn and TensorFlow—author Aurélien Géron helps you gain an intuitive understanding of the concepts and tools for building intelligent systems. You’ll learn a range of techniques, starting with simple linear regression and progressing to deep neural networks. With exercises in each of the concepts and tools for building intelligent systems. You’ll learn a range of techniques, starting with simple linear regression and progressing to deep neural networks."
+    },
+    {
+      "id": "12",
+      "title": "Crystal chemistry",
+      "author": "Carlos Gonzalez",
+      "category": "Chemistry",
+      "pagesLeft": 200,
+
+      "totalPages": 200,
+      "rating": 5,
+      "bookmark": "false",
+      "addToLibrary": "false",
+      "language": "English",
+      "numberOfRatings": 1200,
+      "bookImage": "https://cdn.zeplin.io/5f03041d8c8fc11335546618/assets/E3EEB4FA-4DF1-491D-8A51-DC1C1921FB60.png",
+      "authorImage": "https://cdn.zeplin.io/5f03041d8c8fc11335546618/assets/8911A6F3-BE2F-4473-B410-40CA75BF34C6.png",
+      "releaseDate": "12 sep 1998",
+      "pagesRead": 0,
+
+      "desc": " Through a series of recent breakthroughs, deep learning has boosted the entire field of machine learning.Now, even programmers who know close to nothing about this technology can use simple, efficient tools to implement programs capable of learning from data.This practical book shows you how.By using concrete examples, minimal theory, and two production-ready Python frameworks—Scikit-Learn and TensorFlow—author Aurélien Géron helps you gain an intuitive understanding of the concepts and tools for building intelligent systems. You’ll learn a range of techniques, starting with simple linear regression and progressing to deep neural networks. With exercises in each of the concepts and tools for building intelligent systems. You’ll learn a range of techniques, starting with simple linear regression and progressing to deep neural networks."
+    },
+    {
+      "id": "13",
+      "title": "Crystal chemistry",
+      "author": "Carlos Gonzalez",
+      "category": "Chemistry",
+      "pagesLeft": 200,
+
+      "totalPages": 200,
+      "rating": 5,
+      "bookmark": "false",
+      "addToLibrary": "false",
+      "language": "English",
+      "numberOfRatings": 1200,
+      "bookImage": "https://cdn.zeplin.io/5f03041d8c8fc11335546618/assets/E3EEB4FA-4DF1-491D-8A51-DC1C1921FB60.png",
+      "authorImage": "https://cdn.zeplin.io/5f03041d8c8fc11335546618/assets/8911A6F3-BE2F-4473-B410-40CA75BF34C6.png",
+      "releaseDate": "12 sep 1998",
+      "pagesRead": 0,
+
+      "desc": " Through a series of recent breakthroughs, deep learning has boosted the entire field of machine learning.Now, even programmers who know close to nothing about this technology can use simple, efficient tools to implement programs capable of learning from data.This practical book shows you how.By using concrete examples, minimal theory, and two production-ready Python frameworks—Scikit-Learn and TensorFlow—author Aurélien Géron helps you gain an intuitive understanding of the concepts and tools for building intelligent systems. You’ll learn a range of techniques, starting with simple linear regression and progressing to deep neural networks. With exercises in each of the concepts and tools for building intelligent systems. You’ll learn a range of techniques, starting with simple linear regression and progressing to deep neural networks."
+    },
+    {
+      "id": "14",
+      "title": "Basic Physics",
+      "author": "Carlos Gonzalez",
+      "category": "Physics",
+      "pagesLeft": 200,
+
+      "totalPages": 200,
+      "rating": 5,
+      "bookmark": "false",
+      "addToLibrary": "false",
+      "language": "English",
+      "numberOfRatings": 1200,
+      "bookImage": "https://cdn.zeplin.io/5f03041d8c8fc11335546618/assets/BFB91888-5030-4E35-878F-68EC357D95CE.png",
+      "authorImage": "https://cdn.zeplin.io/5f03041d8c8fc11335546618/assets/8911A6F3-BE2F-4473-B410-40CA75BF34C6.png",
+      "releaseDate": "12 sep 1998",
+      "pagesRead": 0,
+
+      "desc": " Through a series of recent breakthroughs, deep learning has boosted the entire field of machine learning.Now, even programmers who know close to nothing about this technology can use simple, efficient tools to implement programs capable of learning from data.This practical book shows you how.By using concrete examples, minimal theory, and two production-ready Python frameworks—Scikit-Learn and TensorFlow—author Aurélien Géron helps you gain an intuitive understanding of the concepts and tools for building intelligent systems. You’ll learn a range of techniques, starting with simple linear regression and progressing to deep neural networks. With exercises in each of the concepts and tools for building intelligent systems. You’ll learn a range of techniques, starting with simple linear regression and progressing to deep neural networks."
+    },
+    {
+      "id": "15",
+      "title": "Biology",
+      "author": "Carlos Gonzalez",
+      "category": "Biology",
+      "pagesLeft": 200,
+
+      "totalPages": 200,
+      "rating": 5,
+      "bookmark": "false",
+      "addToLibrary": "false",
+      "language": "English",
+      "numberOfRatings": 1200,
+      "bookImage": "https://cdn.zeplin.io/5f03041d8c8fc11335546618/assets/4788B451-0673-497A-A16D-D8459134BADE.png",
+      "authorImage": "https://cdn.zeplin.io/5f03041d8c8fc11335546618/assets/8911A6F3-BE2F-4473-B410-40CA75BF34C6.png",
+      "releaseDate": "12 sep 1998",
+      "pagesRead": 0,
+
+      "desc": " Through a series of recent breakthroughs, deep learning has boosted the entire field of machine learning.Now, even programmers who know close to nothing about this technology can use simple, efficient tools to implement programs capable of learning from data.This practical book shows you how.By using concrete examples, minimal theory, and two production-ready Python frameworks—Scikit-Learn and TensorFlow—author Aurélien Géron helps you gain an intuitive understanding of the concepts and tools for building intelligent systems. You’ll learn a range of techniques, starting with simple linear regression and progressing to deep neural networks. With exercises in each of the concepts and tools for building intelligent systems. You’ll learn a range of techniques, starting with simple linear regression and progressing to deep neural networks."
+    },
+    {
+      "id": "16",
+      "title": "Inorganic chemistry",
+      "author": "J D Lee",
+      "category": "Chemistry",
+      "pagesLeft": 200,
+
+      "totalPages": 200,
+      "rating": 5,
+      "bookmark": "false",
+      "addToLibrary": "false",
+      "language": "English",
+      "numberOfRatings": 1200,
+      "bookImage": "https://cdn.zeplin.io/5f03041d8c8fc11335546618/assets/E9028AA6-7EF2-4637-AA34-D2414E5F70B7.png",
+      "authorImage": "https://cdn.zeplin.io/5f03041d8c8fc11335546618/assets/C779DE0F-7D31-4FFA-A5FE-18E52218EC4E.png",
+      "releaseDate": "12 sep 1998",
+      "pagesRead": 0,
+
+      "desc": " Through a series of recent breakthroughs, deep learning has boosted the entire field of machine learning.Now, even programmers who know close to nothing about this technology can use simple, efficient tools to implement programs capable of learning from data.This practical book shows you how.By using concrete examples, minimal theory, and two production-ready Python frameworks—Scikit-Learn and TensorFlow—author Aurélien Géron helps you gain an intuitive understanding of the concepts and tools for building intelligent systems. You’ll learn a range of techniques, starting with simple linear regression and progressing to deep neural networks. With exercises in each of the concepts and tools for building intelligent systems. You’ll learn a range of techniques, starting with simple linear regression and progressing to deep neural networks."
+    },
+    {
+      "id": "17",
+      "title": "Bio organic chemistry",
+      "author": "Carlos Gonzalez",
+      "category": "Chemistry",
+      "pagesLeft": 200,
+
+      "totalPages": 200,
+      "rating": 5,
+      "bookmark": "false",
+      "addToLibrary": "false",
+      "language": "English",
+      "numberOfRatings": 1200,
+      "bookImage": "https://cdn.zeplin.io/5f03041d8c8fc11335546618/assets/E9028AA6-7EF2-4637-AA34-D2414E5F70B7.png",
+      "authorImage": "https://cdn.zeplin.io/5f03041d8c8fc11335546618/assets/8911A6F3-BE2F-4473-B410-40CA75BF34C6.png",
+      "releaseDate": "12 sep 1998",
+      "pagesRead": 0,
+      "desc": " Through a series of recent breakthroughs, deep learning has boosted the entire field of machine learning.Now, even programmers who know close to nothing about this technology can use simple, efficient tools to implement programs capable of learning from data.This practical book shows you how.By using concrete examples, minimal theory, and two production-ready Python frameworks—Scikit-Learn and TensorFlow—author Aurélien Géron helps you gain an intuitive understanding of the concepts and tools for building intelligent systems. You’ll learn a range of techniques, starting with simple linear regression and progressing to deep neural networks. With exercises in each of the concepts and tools for building intelligent systems. You’ll learn a range of techniques, starting with simple linear regression and progressing to deep neural networks."
+    },
+    {
+      "id": "18",
+      "title": "Crystal chemistry",
+      "author": "Carlos Gonzalez",
+      "category": "Chemistry",
+      "pagesLeft": 200,
+
+      "totalPages": 200,
+      "rating": 5,
+      "bookmark": "false",
+      "addToLibrary": "false",
+      "language": "English",
+      "numberOfRatings": 1200,
+      "bookImage": "https://cdn.zeplin.io/5f03041d8c8fc11335546618/assets/E3EEB4FA-4DF1-491D-8A51-DC1C1921FB60.png",
+      "authorImage": "https://cdn.zeplin.io/5f03041d8c8fc11335546618/assets/8911A6F3-BE2F-4473-B410-40CA75BF34C6.png",
+      "releaseDate": "12 sep 1998",
+      "pagesRead": 0,
+
+      "desc": " Through a series of recent breakthroughs, deep learning has boosted the entire field of machine learning.Now, even programmers who know close to nothing about this technology can use simple, efficient tools to implement programs capable of learning from data.This practical book shows you how.By using concrete examples, minimal theory, and two production-ready Python frameworks—Scikit-Learn and TensorFlow—author Aurélien Géron helps you gain an intuitive understanding of the concepts and tools for building intelligent systems. You’ll learn a range of techniques, starting with simple linear regression and progressing to deep neural networks. With exercises in each of the concepts and tools for building intelligent systems. You’ll learn a range of techniques, starting with simple linear regression and progressing to deep neural networks."
+    },
+    {
+      "id": "19",
+      "title": "Crystal chemistry",
+      "author": "Carlos Gonzalez",
+      "category": "Chemistry",
+      "pagesLeft": 200,
+
+      "totalPages": 200,
+      "rating": 5,
+      "bookmark": "false",
+      "addToLibrary": "false",
+      "language": "English",
+      "numberOfRatings": 1200,
+      "bookImage": "https://cdn.zeplin.io/5f03041d8c8fc11335546618/assets/E3EEB4FA-4DF1-491D-8A51-DC1C1921FB60.png",
+      "authorImage": "https://cdn.zeplin.io/5f03041d8c8fc11335546618/assets/8911A6F3-BE2F-4473-B410-40CA75BF34C6.png",
+      "releaseDate": "12 sep 1998",
+      "pagesRead": 0,
+
+      "desc": " Through a series of recent breakthroughs, deep learning has boosted the entire field of machine learning.Now, even programmers who know close to nothing about this technology can use simple, efficient tools to implement programs capable of learning from data.This practical book shows you how.By using concrete examples, minimal theory, and two production-ready Python frameworks—Scikit-Learn and TensorFlow—author Aurélien Géron helps you gain an intuitive understanding of the concepts and tools for building intelligent systems. You’ll learn a range of techniques, starting with simple linear regression and progressing to deep neural networks. With exercises in each of the concepts and tools for building intelligent systems. You’ll learn a range of techniques, starting with simple linear regression and progressing to deep neural networks."
+    },
+    {
+      "id": "20",
+      "title": "Basic Physics",
+      "author": "Carlos Gonzalez",
+      "category": "Physics",
+      "pagesLeft": 200,
+
+      "totalPages": 200,
+      "rating": 5,
+      "bookmark": "false",
+      "addToLibrary": "false",
+      "language": "English",
+      "numberOfRatings": 1200,  
+      "bookImage": "https://cdn.zeplin.io/5f03041d8c8fc11335546618/assets/BFB91888-5030-4E35-878F-68EC357D95CE.png",
+      "authorImage": "https://cdn.zeplin.io/5f03041d8c8fc11335546618/assets/8911A6F3-BE2F-4473-B410-40CA75BF34C6.png",
+      "releaseDate": "12 sep 1998",
+      "pagesRead": 0,
+
+      "desc": " Through a series of recent breakthroughs, deep learning has boosted the entire field of machine learning.Now, even programmers who know close to nothing about this technology can use simple, efficient tools to implement programs capable of learning from data.This practical book shows you how.By using concrete examples, minimal theory, and two production-ready Python frameworks—Scikit-Learn and TensorFlow—author Aurélien Géron helps you gain an intuitive understanding of the concepts and tools for building intelligent systems. You’ll learn a range of techniques, starting with simple linear regression and progressing to deep neural networks. With exercises in each of the concepts and tools for building intelligent systems. You’ll learn a range of techniques, starting with simple linear regression and progressing to deep neural networks."
+    },
+    {
+      "id": "21",
+      "title": "Biology",
+      "author": "Carlos Gonzalez",
+      "category": "Biology",
+      "pagesLeft": 200,
+
+      "totalPages": 200,
+      "rating": 5,
+      "bookmark": "false",
+      "addToLibrary": "false",
+      "language": "English",
+      "numberOfRatings": 1200,  
+      "bookImage": "https://cdn.zeplin.io/5f03041d8c8fc11335546618/assets/4788B451-0673-497A-A16D-D8459134BADE.png",
+      "authorImage": "https://cdn.zeplin.io/5f03041d8c8fc11335546618/assets/8911A6F3-BE2F-4473-B410-40CA75BF34C6.png",
+      "releaseDate": "12 sep 1998",
+      "pagesRead": 0,
+
+      "desc": " Through a series of recent breakthroughs, deep learning has boosted the entire field of machine learning.Now, even programmers who know close to nothing about this technology can use simple, efficient tools to implement programs capable of learning from data.This practical book shows you how.By using concrete examples, minimal theory, and two production-ready Python frameworks—Scikit-Learn and TensorFlow—author Aurélien Géron helps you gain an intuitive understanding of the concepts and tools for building intelligent systems. You’ll learn a range of techniques, starting with simple linear regression and progressing to deep neural networks. With exercises in each of the concepts and tools for building intelligent systems. You’ll learn a range of techniques, starting with simple linear regression and progressing to deep neural networks."
+    },
+    {
+      "id": "22",
+      "title": "Inorganic chemistry",
+      "author": "J D Lee",
+      "category": "Chemistry",
+      "pagesLeft": 200,
+
+      "totalPages": 200,
+      "rating": 5,
+      "bookmark": "false",
+      "addToLibrary": "false",
+      "language": "English",
+      "numberOfRatings": 1200,
+      "bookImage": "https://cdn.zeplin.io/5f03041d8c8fc11335546618/assets/E9028AA6-7EF2-4637-AA34-D2414E5F70B7.png",
+      "authorImage": "https://cdn.zeplin.io/5f03041d8c8fc11335546618/assets/C779DE0F-7D31-4FFA-A5FE-18E52218EC4E.png",
+      "releaseDate": "12 sep 1998",
+      "pagesRead": 0,
+
+      "desc": " Through a series of recent breakthroughs, deep learning has boosted the entire field of machine learning.Now, even programmers who know close to nothing about this technology can use simple, efficient tools to implement programs capable of learning from data.This practical book shows you how.By using concrete examples, minimal theory, and two production-ready Python frameworks—Scikit-Learn and TensorFlow—author Aurélien Géron helps you gain an intuitive understanding of the concepts and tools for building intelligent systems. You’ll learn a range of techniques, starting with simple linear regression and progressing to deep neural networks. With exercises in each of the concepts and tools for building intelligent systems. You’ll learn a range of techniques, starting with simple linear regression and progressing to deep neural networks."
+    },
+    {
+      "id": "23",
+      "title": "Bio organic chemistry",
+      "author": "Carlos Gonzalez",
+      "category": "Chemistry",
+      "pagesLeft": 200,
+
+      "totalPages": 200,
+      "rating": 5,
+      "bookmark": "false",
+      "addToLibrary": "false",
+      "language": "English",
+      "numberOfRatings": 1200,
+      "bookImage":"https://cdn.zeplin.io/5f03041d8c8fc11335546618/assets/E9028AA6-7EF2-4637-AA34-D2414E5F70B7.png",
+      "authorImage": "https://cdn.zeplin.io/5f03041d8c8fc11335546618/assets/8911A6F3-BE2F-4473-B410-40CA75BF34C6.png",
+      "releaseDate": "12 sep 1998",
+      "pagesRead": 0,
+
+      "desc": " Through a series of recent breakthroughs, deep learning has boosted the entire field of machine learning.Now, even programmers who know close to nothing about this technology can use simple, efficient tools to implement programs capable of learning from data.This practical book shows you how.By using concrete examples, minimal theory, and two production-ready Python frameworks—Scikit-Learn and TensorFlow—author Aurélien Géron helps you gain an intuitive understanding of the concepts and tools for building intelligent systems. You’ll learn a range of techniques, starting with simple linear regression and progressing to deep neural networks. With exercises in each of the concepts and tools for building intelligent systems. You’ll learn a range of techniques, starting with simple linear regression and progressing to deep neural networks."
+    },
+    {
+      "id": "24",
+      "title": "Crystal chemistry",
+      "author": "Carlos Gonzalez",
+      "category": "Chemistry",
+      "pagesLeft": 200,
+
+      "totalPages": 200,
+      "rating": 5,
+      "bookmark": "false",
+      "addToLibrary": "false",
+      "language": "English",
+      "numberOfRatings": 1200,
+      "bookImage": "https://cdn.zeplin.io/5f03041d8c8fc11335546618/assets/E3EEB4FA-4DF1-491D-8A51-DC1C1921FB60.png",
+      "authorImage": "https://cdn.zeplin.io/5f03041d8c8fc11335546618/assets/8911A6F3-BE2F-4473-B410-40CA75BF34C6.png",
+      "releaseDate": "12 sep 1998",
+      "pagesRead": 0,
+
+      "desc": " Through a series of recent breakthroughs, deep learning has boosted the entire field of machine learning.Now, even programmers who know close to nothing about this technology can use simple, efficient tools to implement programs capable of learning from data.This practical book shows you how.By using concrete examples, minimal theory, and two production-ready Python frameworks—Scikit-Learn and TensorFlow—author Aurélien Géron helps you gain an intuitive understanding of the concepts and tools for building intelligent systems. You’ll learn a range of techniques, starting with simple linear regression and progressing to deep neural networks. With exercises in each of the concepts and tools for building intelligent systems. You’ll learn a range of techniques, starting with simple linear regression and progressing to deep neural networks."
+    },
+    {
+      "id": "25",
+      "title": "Inorganic chemistry",
+      "author": "J D Lee",
+      "category": "Chemistry",
+      "pagesLeft": 200,
+
+      "totalPages": 200,
+      "rating": 5,
+      "bookmark": "false",
+      "addToLibrary": "false",
+      "language": "English",
+      "numberOfRatings": 1200,
+      "bookImage": "https://cdn.zeplin.io/5f03041d8c8fc11335546618/assets/E9028AA6-7EF2-4637-AA34-D2414E5F70B7.png",
+      "authorImage": "https://cdn.zeplin.io/5f03041d8c8fc11335546618/assets/8911A6F3-BE2F-4473-B410-40CA75BF34C6.png",
+      "releaseDate": "12 sep 1998",
+      "pagesRead": 0,
+
+      "desc": " Through a series of recent breakthroughs, deep learning has boosted the entire field of machine learning.Now, even programmers who know close to nothing about this technology can use simple, efficient tools to implement programs capable of learning from data.This practical book shows you how.By using concrete examples, minimal theory, and two production-ready Python frameworks—Scikit-Learn and TensorFlow—author Aurélien Géron helps you gain an intuitive understanding of the concepts and tools for building intelligent systems. You’ll learn a range of techniques, starting with simple linear regression and progressing to deep neural networks. With exercises in each of the concepts and tools for building intelligent systems. You’ll learn a range of techniques, starting with simple linear regression and progressing to deep neural networks."
+    },
+    {
+      "id": "26",
+      "title": "Basic Physics",
+      "author": "Carlos Gonzalez",
+      "category": "Physics",
+      "pagesLeft": 200,
+
+      "totalPages": 200,
+      "rating": 5,
+      "bookmark": "false",
+      "addToLibrary": "false",
+      "language": "English",
+      "numberOfRatings": 1200,
+      "bookImage": "https://cdn.zeplin.io/5f03041d8c8fc11335546618/assets/BFB91888-5030-4E35-878F-68EC357D95CE.png",
+      "authorImage": "https://cdn.zeplin.io/5f03041d8c8fc11335546618/assets/8911A6F3-BE2F-4473-B410-40CA75BF34C6.png",
+      "releaseDate": "12 sep 1998",
+      "pagesRead": 0,
+
+      "desc": " Through a series of recent breakthroughs, deep learning has boosted the entire field of machine learning.Now, even programmers who know close to nothing about this technology can use simple, efficient tools to implement programs capable of learning from data.This practical book shows you how.By using concrete examples, minimal theory, and two production-ready Python frameworks—Scikit-Learn and TensorFlow—author Aurélien Géron helps you gain an intuitive understanding of the concepts and tools for building intelligent systems. You’ll learn a range of techniques, starting with simple linear regression and progressing to deep neural networks. With exercises in each of the concepts and tools for building intelligent systems. You’ll learn a range of techniques, starting with simple linear regression and progressing to deep neural networks."
+    },
+    {
+      "id": "27",
+      "title": "Basic Physics",
+      "author": "Carlos Gonzalez",
+      "category": "Physics",
+      "pagesLeft": 200,
+
+      "totalPages": 200,
+      "rating": 5,
+      "bookmark": "false",
+      "addToLibrary": "false",
+      "language": "English",
+      "numberOfRatings": 1200,
+      "bookImage": "https://cdn.zeplin.io/5f03041d8c8fc11335546618/assets/BFB91888-5030-4E35-878F-68EC357D95CE.png",
+      "authorImage": "https://cdn.zeplin.io/5f03041d8c8fc11335546618/assets/8911A6F3-BE2F-4473-B410-40CA75BF34C6.png",
+      "releaseDate": "12 sep 1998",
+      "pagesRead": 0,
+
+      "desc": " Through a series of recent breakthroughs, deep learning has boosted the entire field of machine learning.Now, even programmers who know close to nothing about this technology can use simple, efficient tools to implement programs capable of learning from data.This practical book shows you how.By using concrete examples, minimal theory, and two production-ready Python frameworks—Scikit-Learn and TensorFlow—author Aurélien Géron helps you gain an intuitive understanding of the concepts and tools for building intelligent systems. You’ll learn a range of techniques, starting with simple linear regression and progressing to deep neural networks. With exercises in each of the concepts and tools for building intelligent systems. You’ll learn a range of techniques, starting with simple linear regression and progressing to deep neural networks."
+    },
+    {
+      "id": "28",
+      "title": "Basic Physics",
+      "author": "Carlos Gonzalez",
+      "category": "Physics",
+      "pagesLeft": 200,
+
+      "totalPages": 200,
+      "rating": 5,
+      "bookmark": "false",
+      "addToLibrary": "false",
+      "language": "English",
+      "numberOfRatings": 1200,
+      "bookImage": "https://cdn.zeplin.io/5f03041d8c8fc11335546618/assets/BFB91888-5030-4E35-878F-68EC357D95CE.png",
+      "authorImage": "https://cdn.zeplin.io/5f03041d8c8fc11335546618/assets/8911A6F3-BE2F-4473-B410-40CA75BF34C6.png",
+      "releaseDate": "12 sep 1998",
+      "pagesRead": 0,
+
+      "desc": " Through a series of recent breakthroughs, deep learning has boosted the entire field of machine learning.Now, even programmers who know close to nothing about this technology can use simple, efficient tools to implement programs capable of learning from data.This practical book shows you how.By using concrete examples, minimal theory, and two production-ready Python frameworks—Scikit-Learn and TensorFlow—author Aurélien Géron helps you gain an intuitive understanding of the concepts and tools for building intelligent systems. You’ll learn a range of techniques, starting with simple linear regression and progressing to deep neural networks. With exercises in each of the concepts and tools for building intelligent systems. You’ll learn a range of techniques, starting with simple linear regression and progressing to deep neural networks."
+    },
+    {
+      "id": "29",
+      "title": "Basic Physics",
+      "author": "Carlos Gonzalez",
+      "category": "Physics",
+      "pagesLeft": 200,
+
+      "totalPages": 200,
+      "rating": 5,
+      "bookmark": "false",
+      "addToLibrary": "false",
+      "language": "English",
+      "numberOfRatings": 1200,
+      "bookImage": "https://cdn.zeplin.io/5f03041d8c8fc11335546618/assets/BFB91888-5030-4E35-878F-68EC357D95CE.png",
+      "authorImage": "https://cdn.zeplin.io/5f03041d8c8fc11335546618/assets/8911A6F3-BE2F-4473-B410-40CA75BF34C6.png",
+      "releaseDate": "12 sep 1998",
+      "pagesRead": 0,
+
+      "desc": " Through a series of recent breakthroughs, deep learning has boosted the entire field of machine learning.Now, even programmers who know close to nothing about this technology can use simple, efficient tools to implement programs capable of learning from data.This practical book shows you how.By using concrete examples, minimal theory, and two production-ready Python frameworks—Scikit-Learn and TensorFlow—author Aurélien Géron helps you gain an intuitive understanding of the concepts and tools for building intelligent systems. You’ll learn a range of techniques, starting with simple linear regression and progressing to deep neural networks. With exercises in each of the concepts and tools for building intelligent systems. You’ll learn a range of techniques, starting with simple linear regression and progressing to deep neural networks."
+    },
+    {
+      "id": "30",
+      "title": "Basic Physics",
+      "author": "Carlos Gonzalez",
+      "category": "Physics",
+      "pagesLeft": 200,
+
+      "totalPages": 200,
+      "rating": 5,
+      "bookmark": "false",
+      "addToLibrary": "false",
+      "language": "English",
+      "numberOfRatings": 1200,
+      "bookImage": "https://cdn.zeplin.io/5f03041d8c8fc11335546618/assets/BFB91888-5030-4E35-878F-68EC357D95CE.png",
+      "authorImage": "https://cdn.zeplin.io/5f03041d8c8fc11335546618/assets/8911A6F3-BE2F-4473-B410-40CA75BF34C6.png",
+      "releaseDate": "12 sep 1998",
+      "pagesRead": 0,
+
+      "desc": " Through a series of recent breakthroughs, deep learning has boosted the entire field of machine learning.Now, even programmers who know close to nothing about this technology can use simple, efficient tools to implement programs capable of learning from data.This practical book shows you how.By using concrete examples, minimal theory, and two production-ready Python frameworks—Scikit-Learn and TensorFlow—author Aurélien Géron helps you gain an intuitive understanding of the concepts and tools for building intelligent systems. You’ll learn a range of techniques, starting with simple linear regression and progressing to deep neural networks. With exercises in each of the concepts and tools for building intelligent systems. You’ll learn a range of techniques, starting with simple linear regression and progressing to deep neural networks."
+    },
+    {
+      "id": "31",
+      "title": "Basic Physics",
+      "author": "Carlos Gonzalez",
+      "category": "Physics",
+      "pagesLeft": 200,
+
+      "totalPages": 200,
+      "rating": 5,
+      "bookmark": "false",
+      "addToLibrary": "false",
+      "language": "English",
+      "numberOfRatings": 1200,
+      "bookImage": "https://cdn.zeplin.io/5f03041d8c8fc11335546618/assets/BFB91888-5030-4E35-878F-68EC357D95CE.png",
+      "authorImage": "https://cdn.zeplin.io/5f03041d8c8fc11335546618/assets/8911A6F3-BE2F-4473-B410-40CA75BF34C6.png",
+      "releaseDate": "12 sep 1998",
+      "pagesRead": 0,
+
+      "desc": " Through a series of recent breakthroughs, deep learning has boosted the entire field of machine learning.Now, even programmers who know close to nothing about this technology can use simple, efficient tools to implement programs capable of learning from data.This practical book shows you how.By using concrete examples, minimal theory, and two production-ready Python frameworks—Scikit-Learn and TensorFlow—author Aurélien Géron helps you gain an intuitive understanding of the concepts and tools for building intelligent systems. You’ll learn a range of techniques, starting with simple linear regression and progressing to deep neural networks. With exercises in each of the concepts and tools for building intelligent systems. You’ll learn a range of techniques, starting with simple linear regression and progressing to deep neural networks."
+    },
+    {
+      "id": "32",
+      "title": "Basic Physics",
+      "author": "Carlos Gonzalez",
+      "category": "Physics",
+      "pagesLeft": 200,
+
+      "totalPages": 200,
+      "rating": 5,
+      "bookmark": "false",
+      "addToLibrary": "false",
+      "language": "English",
+      "numberOfRatings": 1200,
+      "bookImage": "https://cdn.zeplin.io/5f03041d8c8fc11335546618/assets/BFB91888-5030-4E35-878F-68EC357D95CE.png",
+      "authorImage": "https://cdn.zeplin.io/5f03041d8c8fc11335546618/assets/8911A6F3-BE2F-4473-B410-40CA75BF34C6.png",
+      "releaseDate": "12 sep 1998",
+      "pagesRead": 0,
+
+      "desc": " Through a series of recent breakthroughs, deep learning has boosted the entire field of machine learning.Now, even programmers who know close to nothing about this technology can use simple, efficient tools to implement programs capable of learning from data.This practical book shows you how.By using concrete examples, minimal theory, and two production-ready Python frameworks—Scikit-Learn and TensorFlow—author Aurélien Géron helps you gain an intuitive understanding of the concepts and tools for building intelligent systems. You’ll learn a range of techniques, starting with simple linear regression and progressing to deep neural networks. With exercises in each of the concepts and tools for building intelligent systems. You’ll learn a range of techniques, starting with simple linear regression and progressing to deep neural networks."
+    },
+    {
+      "id": "33",
+      "title": "Basic Physics",
+      "author": "Carlos Gonzalez",
+      "category": "Physics",
+      "pagesLeft": 200,
+
+      "totalPages": 200,
+      "rating": 5,
+      "bookmark": "false",
+      "addToLibrary": "false",
+      "language": "English",
+      "numberOfRatings": 1200,
+      "bookImage": "https://cdn.zeplin.io/5f03041d8c8fc11335546618/assets/BFB91888-5030-4E35-878F-68EC357D95CE.png",
+      "authorImage": "https://cdn.zeplin.io/5f03041d8c8fc11335546618/assets/8911A6F3-BE2F-4473-B410-40CA75BF34C6.png",
+      "releaseDate": "12 sep 1998",
+      "pagesRead": 0,
+
+      "desc": " Through a series of recent breakthroughs, deep learning has boosted the entire field of machine learning.Now, even programmers who know close to nothing about this technology can use simple, efficient tools to implement programs capable of learning from data.This practical book shows you how.By using concrete examples, minimal theory, and two production-ready Python frameworks—Scikit-Learn and TensorFlow—author Aurélien Géron helps you gain an intuitive understanding of the concepts and tools for building intelligent systems. You’ll learn a range of techniques, starting with simple linear regression and progressing to deep neural networks. With exercises in each of the concepts and tools for building intelligent systems. You’ll learn a range of techniques, starting with simple linear regression and progressing to deep neural networks."
+    },
+    {
+      "id": "34",
+      "title": "Biology",
+      "author": "Carlos Gonzalez",
+      "category": "Biology",
+      "pagesLeft": 200,
+
+      "totalPages": 200,
+      "rating": 5,
+      "bookmark": "false",
+      "addToLibrary": "false",
+      "language": "English",
+      "numberOfRatings": 1200,
+      "bookImage": "https://cdn.zeplin.io/5f03041d8c8fc11335546618/assets/4788B451-0673-497A-A16D-D8459134BADE.png",
+      "authorImage": "https://cdn.zeplin.io/5f03041d8c8fc11335546618/assets/8911A6F3-BE2F-4473-B410-40CA75BF34C6.png",
+      "releaseDate": "12 sep 1998",
+      "pagesRead": 0,
+
+      "desc": " Through a series of recent breakthroughs, deep learning has boosted the entire field of machine learning.Now, even programmers who know close to nothing about this technology can use simple, efficient tools to implement programs capable of learning from data.This practical book shows you how.By using concrete examples, minimal theory, and two production-ready Python frameworks—Scikit-Learn and TensorFlow—author Aurélien Géron helps you gain an intuitive understanding of the concepts and tools for building intelligent systems. You’ll learn a range of techniques, starting with simple linear regression and progressing to deep neural networks. With exercises in each of the concepts and tools for building intelligent systems. You’ll learn a range of techniques, starting with simple linear regression and progressing to deep neural networks."
+    },
+    {
+      "id": "35",
+      "title": "Biology",
+      "author": "Carlos Gonzalez",
+      "category": "Biology",
+      "pagesLeft": 200,
+
+      "totalPages": 200,
+      "rating": 5,
+      "bookmark": "false",
+      "addToLibrary": "false",
+      "language": "English",
+      "numberOfRatings": 1200,    
+      "bookImage": "https://cdn.zeplin.io/5f03041d8c8fc11335546618/assets/4788B451-0673-497A-A16D-D8459134BADE.png",
+      "authorImage": "https://cdn.zeplin.io/5f03041d8c8fc11335546618/assets/8911A6F3-BE2F-4473-B410-40CA75BF34C6.png",
+      "releaseDate": "12 sep 1998",
+      "pagesRead": 0,
+
+      "desc": " Through a series of recent breakthroughs, deep learning has boosted the entire field of machine learning.Now, even programmers who know close to nothing about this technology can use simple, efficient tools to implement programs capable of learning from data.This practical book shows you how.By using concrete examples, minimal theory, and two production-ready Python frameworks—Scikit-Learn and TensorFlow—author Aurélien Géron helps you gain an intuitive understanding of the concepts and tools for building intelligent systems. You’ll learn a range of techniques, starting with simple linear regression and progressing to deep neural networks. With exercises in each of the concepts and tools for building intelligent systems. You’ll learn a range of techniques, starting with simple linear regression and progressing to deep neural networks."
+    },
+    {
+      "id": "36",
+      "title": "Biology",
+      "author": "Carlos Gonzalez",
+      "category": "Biology",
+      "pagesLeft": 200,
+
+      "totalPages": 200,
+      "rating": 5,
+      "bookmark": "false",
+      "addToLibrary": "false",
+      "language": "English",
+      "numberOfRatings": 1200,     
+      "bookImage": "https://cdn.zeplin.io/5f03041d8c8fc11335546618/assets/4788B451-0673-497A-A16D-D8459134BADE.png",
+      "authorImage": "https://cdn.zeplin.io/5f03041d8c8fc11335546618/assets/8911A6F3-BE2F-4473-B410-40CA75BF34C6.png",
+      "releaseDate": "12 sep 1998",
+      "pagesRead": 0,
+
+      "desc": " Through a series of recent breakthroughs, deep learning has boosted the entire field of machine learning.Now, even programmers who know close to nothing about this technology can use simple, efficient tools to implement programs capable of learning from data.This practical book shows you how.By using concrete examples, minimal theory, and two production-ready Python frameworks—Scikit-Learn and TensorFlow—author Aurélien Géron helps you gain an intuitive understanding of the concepts and tools for building intelligent systems. You’ll learn a range of techniques, starting with simple linear regression and progressing to deep neural networks. With exercises in each of the concepts and tools for building intelligent systems. You’ll learn a range of techniques, starting with simple linear regression and progressing to deep neural networks."
+    },
+    {
+      "id": "37",
+      "title": "Biology",
+      "author": "Carlos Gonzalez",
+      "category": "Biology",
+      "pagesLeft": 200,
+
+      "totalPages": 200,
+      "rating": 5,
+      "bookmark": "false",
+      "addToLibrary": "false",
+      "language": "English",
+      "numberOfRatings": 1200,    
+      "bookImage": "https://cdn.zeplin.io/5f03041d8c8fc11335546618/assets/4788B451-0673-497A-A16D-D8459134BADE.png",
+      "authorImage": "https://cdn.zeplin.io/5f03041d8c8fc11335546618/assets/8911A6F3-BE2F-4473-B410-40CA75BF34C6.png",
+      "releaseDate": "12 sep 1998",
+      "pagesRead": 0,
+
+      "desc": " Through a series of recent breakthroughs, deep learning has boosted the entire field of machine learning.Now, even programmers who know close to nothing about this technology can use simple, efficient tools to implement programs capable of learning from data.This practical book shows you how.By using concrete examples, minimal theory, and two production-ready Python frameworks—Scikit-Learn and TensorFlow—author Aurélien Géron helps you gain an intuitive understanding of the concepts and tools for building intelligent systems. You’ll learn a range of techniques, starting with simple linear regression and progressing to deep neural networks. With exercises in each of the concepts and tools for building intelligent systems. You’ll learn a range of techniques, starting with simple linear regression and progressing to deep neural networks."
+    },
+    {
+      "id": "38",
+      "title": "Biology",
+      "author": "Carlos Gonzalez",
+      "category": "Biology",
+      "pagesLeft": 200,
+
+      "totalPages": 200,
+      "rating": 5,
+      "bookmark": "false",
+      "addToLibrary": "false",
+      "language": "English",
+      "numberOfRatings": 1200, 
+      "bookImage": "https://cdn.zeplin.io/5f03041d8c8fc11335546618/assets/4788B451-0673-497A-A16D-D8459134BADE.png",
+      "authorImage": "https://cdn.zeplin.io/5f03041d8c8fc11335546618/assets/8911A6F3-BE2F-4473-B410-40CA75BF34C6.png",
+      "releaseDate": "12 sep 1998",
+      "pagesRead": 0,
+
+      "desc": " Through a series of recent breakthroughs, deep learning has boosted the entire field of machine learning.Now, even programmers who know close to nothing about this technology can use simple, efficient tools to implement programs capable of learning from data.This practical book shows you how.By using concrete examples, minimal theory, and two production-ready Python frameworks—Scikit-Learn and TensorFlow—author Aurélien Géron helps you gain an intuitive understanding of the concepts and tools for building intelligent systems. You’ll learn a range of techniques, starting with simple linear regression and progressing to deep neural networks. With exercises in each of the concepts and tools for building intelligent systems. You’ll learn a range of techniques, starting with simple linear regression and progressing to deep neural networks."
+    },
+    {
+      "id": "39",
+      "title": "Biology",
+      "author": "Carlos Gonzalez",
+      "category": "Biology",
+      "pagesLeft": 200,
+
+      "totalPages": 200,
+      "rating": 5,
+      "bookmark": "false",
+      "addToLibrary": "false",
+      "language": "English",
+      "numberOfRatings": 1200,    
+      "bookImage": "https://cdn.zeplin.io/5f03041d8c8fc11335546618/assets/4788B451-0673-497A-A16D-D8459134BADE.png",
+      "authorImage": "https://cdn.zeplin.io/5f03041d8c8fc11335546618/assets/8911A6F3-BE2F-4473-B410-40CA75BF34C6.png",
+      "releaseDate": "12 sep 1998",
+      "pagesRead": 0,
+
+      "desc": " Through a series of recent breakthroughs, deep learning has boosted the entire field of machine learning.Now, even programmers who know close to nothing about this technology can use simple, efficient tools to implement programs capable of learning from data.This practical book shows you how.By using concrete examples, minimal theory, and two production-ready Python frameworks—Scikit-Learn and TensorFlow—author Aurélien Géron helps you gain an intuitive understanding of the concepts and tools for building intelligent systems. You’ll learn a range of techniques, starting with simple linear regression and progressing to deep neural networks. With exercises in each of the concepts and tools for building intelligent systems. You’ll learn a range of techniques, starting with simple linear regression and progressing to deep neural networks."
+    },
+    {
+      "id": "40",
+      "title": "Crystal chemistry",
+      "author": "Carlos Gonzalez",
+      "category": "Chemistry",
+      "pagesLeft": 200,
+
+      "totalPages": 200,
+      "rating": 5,
+      "bookmark": "false",
+      "addToLibrary": "false",
+      "language": "English",
+      "numberOfRatings": 1200,    
+      "bookImage": "https://cdn.zeplin.io/5f03041d8c8fc11335546618/assets/E3EEB4FA-4DF1-491D-8A51-DC1C1921FB60.png",
+      "authorImage": "https://cdn.zeplin.io/5f03041d8c8fc11335546618/assets/8911A6F3-BE2F-4473-B410-40CA75BF34C6.png",
+      "releaseDate": "12 sep 1998",
+      "pagesRead": 0,
+
+      "desc": " Through a series of recent breakthroughs, deep learning has boosted the entire field of machine learning.Now, even programmers who know close to nothing about this technology can use simple, efficient tools to implement programs capable of learning from data.This practical book shows you how.By using concrete examples, minimal theory, and two production-ready Python frameworks—Scikit-Learn and TensorFlow—author Aurélien Géron helps you gain an intuitive understanding of the concepts and tools for building intelligent systems. You’ll learn a range of techniques, starting with simple linear regression and progressing to deep neural networks. With exercises in each of the concepts and tools for building intelligent systems. You’ll learn a range of techniques, starting with simple linear regression and progressing to deep neural networks."
+    }
+  ]
+}

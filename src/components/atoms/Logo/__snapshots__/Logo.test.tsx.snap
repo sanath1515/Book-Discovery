@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`logo renders correctly should match snapshot 1`] = `
+<DocumentFragment>
+  <img
+    class="makeStyles-root-1"
+    src="https://cdn.zeplin.io/5f03041d8c8fc11335546618/assets/1515BA80-801B-4E2F-9576-01A4265C0E6A.svg"
+  />
+</DocumentFragment>
+`;

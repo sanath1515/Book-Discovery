@@ -1,0 +1,64 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Search Result Card Testing Matches Snapshot 1`] = `
+<div>
+  <div
+    class="MuiPaper-root MuiCard-root makeStyles-root-1 MuiPaper-elevation1 MuiPaper-rounded"
+  >
+    <button
+      class="MuiButtonBase-root MuiCardActionArea-root makeStyles-actionArea-9"
+      tabindex="0"
+      type="button"
+    >
+      <img
+        class="MuiCardMedia-root makeStyles-image-2 MuiCardMedia-media MuiCardMedia-img"
+        data-testid="card"
+        src="https://cdn.zeplin.io/5f03041d8c8fc11335546618/assets/920F4926-3BD5-47FB-A32A-32C03DE1BB71.png"
+      />
+      <div
+        class="MuiCardContent-root makeStyles-content-10"
+      >
+        <p
+          class="MuiTypography-root makeStyles-title-3 MuiTypography-body2"
+        >
+          Nature Chemistry
+        </p>
+        <div
+          class="MuiCardActions-root makeStyles-actions-8 MuiCardActions-spacing"
+        >
+          <span
+            class="MuiTypography-root makeStyles-author-4 MuiTypography-overline"
+          >
+            by
+          </span>
+          <span
+            class="MuiTypography-root makeStyles-authorName-5 MuiTypography-caption"
+          >
+            J D Lee
+          </span>
+        </div>
+        <div
+          class="MuiCardActions-root makeStyles-actions-8 MuiCardActions-spacing"
+        >
+          <span
+            class="MuiTypography-root makeStyles-field-6 MuiTypography-overline"
+          >
+            Field :
+          </span>
+          <span
+            class="MuiTypography-root makeStyles-fieldName-7 MuiTypography-overline"
+          >
+            Chemistry
+          </span>
+        </div>
+      </div>
+      <span
+        class="MuiCardActionArea-focusHighlight"
+      />
+      <span
+        class="MuiTouchRipple-root"
+      />
+    </button>
+  </div>
+</div>
+`;

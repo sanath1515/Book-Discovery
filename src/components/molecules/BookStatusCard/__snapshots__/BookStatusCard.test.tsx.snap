@@ -1,0 +1,76 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Book Status Card Testing Matches Snapshot 1`] = `
+<div>
+  <div
+    class="MuiPaper-root MuiCard-root makeStyles-root-1 MuiPaper-elevation1 MuiPaper-rounded"
+  >
+    <button
+      class="MuiButtonBase-root MuiCardActionArea-root makeStyles-actionArea-10"
+      tabindex="0"
+      type="button"
+    >
+      <img
+        class="MuiCardMedia-root makeStyles-image-2 MuiCardMedia-media MuiCardMedia-img"
+        data-testid="card"
+        src="https://cdn.zeplin.io/5f03041d8c8fc11335546618/assets/920F4926-3BD5-47FB-A32A-32C03DE1BB71.png"
+      />
+      <div
+        class="MuiCardContent-root makeStyles-content-11"
+      >
+        <h6
+          class="MuiTypography-root makeStyles-title-3 MuiTypography-subtitle1"
+        >
+          Nature Chemistry
+        </h6>
+        <div
+          class="MuiCardActions-root makeStyles-actions-9 MuiCardActions-spacing"
+        >
+          <p
+            class="MuiTypography-root makeStyles-author-4 MuiTypography-body2"
+          >
+            by
+          </p>
+          <p
+            class="MuiTypography-root makeStyles-authorName-5 MuiTypography-body2"
+          >
+            J D Lee
+          </p>
+        </div>
+        <div
+          class="MuiCardActions-root makeStyles-actions-9 MuiCardActions-spacing"
+        >
+          <span
+            class="MuiTypography-root makeStyles-field-6 MuiTypography-overline"
+          >
+            Category:
+          </span>
+          <p
+            class="MuiTypography-root makeStyles-fieldName-7 MuiTypography-body2"
+          >
+            Chemistry
+          </p>
+        </div>
+        <div
+          class="MuiCardActions-root makeStyles-actions-9 MuiCardActions-spacing"
+        >
+          <span
+            class="MuiTypography-root makeStyles-pages-8 MuiTypography-overline"
+          >
+            12
+             left / 
+            200
+             pages
+          </span>
+        </div>
+      </div>
+      <span
+        class="MuiCardActionArea-focusHighlight"
+      />
+      <span
+        class="MuiTouchRipple-root"
+      />
+    </button>
+  </div>
+</div>
+`;

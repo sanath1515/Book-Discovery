@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Topics renders correctly should match shapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="MuiGrid-root makeStyles-container-1"
+  >
+    <img
+      alt="Snow"
+      src="https://cdn.zeplin.io/5f03041d8c8fc11335546618/assets/296A1994-087A-4F86-BC94-D8E3D96946EE.png"
+    />
+    <button
+      class="MuiButtonBase-root MuiButton-root MuiButton-text makeStyles-btn-2"
+      tabindex="0"
+      type="button"
+    >
+      <span
+        class="MuiButton-label"
+      >
+         Discover
+      </span>
+      <span
+        class="MuiTouchRipple-root"
+      />
+    </button>
+  </div>
+</DocumentFragment>
+`;

@@ -1,0 +1,291 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Should render container correctly Match Snapshot 1`] = `
+<div>
+  <div
+    class="makeStyles-root-1"
+  >
+    <div
+      class="MuiGrid-root makeStyles-textContainer-5"
+    >
+      <h3
+        class="MuiTypography-root makeStyles-heading-2 MuiTypography-h3"
+      >
+        Books you are reading
+      </h3>
+      <svg
+        aria-hidden="true"
+        class="MuiSvgIcon-root makeStyles-icon-4"
+        focusable="false"
+        viewBox="0 0 24 24"
+      >
+        <path
+          d="M5.88 4.12L13.76 12l-7.88 7.88L8 22l10-10L8 2z"
+        />
+      </svg>
+      <h6
+        class="MuiTypography-root makeStyles-text-3 MuiTypography-subtitle2"
+      >
+        See more
+         
+      </h6>
+    </div>
+    <div
+      class="MuiGrid-root makeStyles-textContainer1-6"
+    >
+      <div
+        class="MuiPaper-root MuiCard-root makeStyles-root-7 MuiPaper-elevation1 MuiPaper-rounded"
+      >
+        <button
+          class="MuiButtonBase-root MuiCardActionArea-root makeStyles-actionArea-16"
+          tabindex="0"
+          type="button"
+        >
+          <img
+            class="MuiCardMedia-root makeStyles-image-8 MuiCardMedia-media MuiCardMedia-img"
+            data-testid="card"
+          />
+          <div
+            class="MuiCardContent-root makeStyles-content-17"
+          >
+            <h6
+              class="MuiTypography-root makeStyles-title-9 MuiTypography-subtitle1"
+            >
+              Crystal chemistry
+            </h6>
+            <div
+              class="MuiCardActions-root makeStyles-actions-15 MuiCardActions-spacing"
+            >
+              <p
+                class="MuiTypography-root makeStyles-author-10 MuiTypography-body2"
+              >
+                by
+              </p>
+              <p
+                class="MuiTypography-root makeStyles-authorName-11 MuiTypography-body2"
+              />
+            </div>
+            <div
+              class="MuiCardActions-root makeStyles-actions-15 MuiCardActions-spacing"
+            >
+              <span
+                class="MuiTypography-root makeStyles-field-12 MuiTypography-overline"
+              >
+                Category:
+              </span>
+              <p
+                class="MuiTypography-root makeStyles-fieldName-13 MuiTypography-body2"
+              />
+            </div>
+            <div
+              class="MuiCardActions-root makeStyles-actions-15 MuiCardActions-spacing"
+            >
+              <span
+                class="MuiTypography-root makeStyles-pages-14 MuiTypography-overline"
+              >
+                 left / 
+                 pages
+              </span>
+            </div>
+          </div>
+          <span
+            class="MuiCardActionArea-focusHighlight"
+          />
+          <span
+            class="MuiTouchRipple-root"
+          />
+        </button>
+      </div>
+      <div
+        class="MuiPaper-root MuiCard-root makeStyles-root-7 MuiPaper-elevation1 MuiPaper-rounded"
+      >
+        <button
+          class="MuiButtonBase-root MuiCardActionArea-root makeStyles-actionArea-16"
+          tabindex="0"
+          type="button"
+        >
+          <img
+            class="MuiCardMedia-root makeStyles-image-8 MuiCardMedia-media MuiCardMedia-img"
+            data-testid="card"
+          />
+          <div
+            class="MuiCardContent-root makeStyles-content-17"
+          >
+            <h6
+              class="MuiTypography-root makeStyles-title-9 MuiTypography-subtitle1"
+            >
+              Inorganic chemistry
+            </h6>
+            <div
+              class="MuiCardActions-root makeStyles-actions-15 MuiCardActions-spacing"
+            >
+              <p
+                class="MuiTypography-root makeStyles-author-10 MuiTypography-body2"
+              >
+                by
+              </p>
+              <p
+                class="MuiTypography-root makeStyles-authorName-11 MuiTypography-body2"
+              />
+            </div>
+            <div
+              class="MuiCardActions-root makeStyles-actions-15 MuiCardActions-spacing"
+            >
+              <span
+                class="MuiTypography-root makeStyles-field-12 MuiTypography-overline"
+              >
+                Category:
+              </span>
+              <p
+                class="MuiTypography-root makeStyles-fieldName-13 MuiTypography-body2"
+              />
+            </div>
+            <div
+              class="MuiCardActions-root makeStyles-actions-15 MuiCardActions-spacing"
+            >
+              <span
+                class="MuiTypography-root makeStyles-pages-14 MuiTypography-overline"
+              >
+                 left / 
+                 pages
+              </span>
+            </div>
+          </div>
+          <span
+            class="MuiCardActionArea-focusHighlight"
+          />
+          <span
+            class="MuiTouchRipple-root"
+          />
+        </button>
+      </div>
+      <div
+        class="MuiPaper-root MuiCard-root makeStyles-root-7 MuiPaper-elevation1 MuiPaper-rounded"
+      >
+        <button
+          class="MuiButtonBase-root MuiCardActionArea-root makeStyles-actionArea-16"
+          tabindex="0"
+          type="button"
+        >
+          <img
+            class="MuiCardMedia-root makeStyles-image-8 MuiCardMedia-media MuiCardMedia-img"
+            data-testid="card"
+          />
+          <div
+            class="MuiCardContent-root makeStyles-content-17"
+          >
+            <h6
+              class="MuiTypography-root makeStyles-title-9 MuiTypography-subtitle1"
+            >
+              Bioorganic chemistry
+            </h6>
+            <div
+              class="MuiCardActions-root makeStyles-actions-15 MuiCardActions-spacing"
+            >
+              <p
+                class="MuiTypography-root makeStyles-author-10 MuiTypography-body2"
+              >
+                by
+              </p>
+              <p
+                class="MuiTypography-root makeStyles-authorName-11 MuiTypography-body2"
+              />
+            </div>
+            <div
+              class="MuiCardActions-root makeStyles-actions-15 MuiCardActions-spacing"
+            >
+              <span
+                class="MuiTypography-root makeStyles-field-12 MuiTypography-overline"
+              >
+                Category:
+              </span>
+              <p
+                class="MuiTypography-root makeStyles-fieldName-13 MuiTypography-body2"
+              />
+            </div>
+            <div
+              class="MuiCardActions-root makeStyles-actions-15 MuiCardActions-spacing"
+            >
+              <span
+                class="MuiTypography-root makeStyles-pages-14 MuiTypography-overline"
+              >
+                 left / 
+                 pages
+              </span>
+            </div>
+          </div>
+          <span
+            class="MuiCardActionArea-focusHighlight"
+          />
+          <span
+            class="MuiTouchRipple-root"
+          />
+        </button>
+      </div>
+      <div
+        class="MuiPaper-root MuiCard-root makeStyles-root-7 MuiPaper-elevation1 MuiPaper-rounded"
+      >
+        <button
+          class="MuiButtonBase-root MuiCardActionArea-root makeStyles-actionArea-16"
+          tabindex="0"
+          type="button"
+        >
+          <img
+            class="MuiCardMedia-root makeStyles-image-8 MuiCardMedia-media MuiCardMedia-img"
+            data-testid="card"
+          />
+          <div
+            class="MuiCardContent-root makeStyles-content-17"
+          >
+            <h6
+              class="MuiTypography-root makeStyles-title-9 MuiTypography-subtitle1"
+            >
+              Basic Physics
+            </h6>
+            <div
+              class="MuiCardActions-root makeStyles-actions-15 MuiCardActions-spacing"
+            >
+              <p
+                class="MuiTypography-root makeStyles-author-10 MuiTypography-body2"
+              >
+                by
+              </p>
+              <p
+                class="MuiTypography-root makeStyles-authorName-11 MuiTypography-body2"
+              />
+            </div>
+            <div
+              class="MuiCardActions-root makeStyles-actions-15 MuiCardActions-spacing"
+            >
+              <span
+                class="MuiTypography-root makeStyles-field-12 MuiTypography-overline"
+              >
+                Category:
+              </span>
+              <p
+                class="MuiTypography-root makeStyles-fieldName-13 MuiTypography-body2"
+              />
+            </div>
+            <div
+              class="MuiCardActions-root makeStyles-actions-15 MuiCardActions-spacing"
+            >
+              <span
+                class="MuiTypography-root makeStyles-pages-14 MuiTypography-overline"
+              >
+                 left / 
+                 pages
+              </span>
+            </div>
+          </div>
+          <span
+            class="MuiCardActionArea-focusHighlight"
+          />
+          <span
+            class="MuiTouchRipple-root"
+          />
+        </button>
+      </div>
+    </div>
+  </div>
+</div>
+`;
