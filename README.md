@@ -71,7 +71,6 @@ Join us at Book Discovery. Your personal reading adventure awaits.
 
 ## Screenshots 
 
-![image](https://github.com/sanath1515/Green-Commute/assets/60379301/7e9e9b8b-3be8-4350-8456-b9fe4aa2431c)
 ![image](https://github.com/sanath1515/Book-Discovery/assets/60379301/4089d477-4b29-4bf0-9ce1-2146aebc4c4e)
 ![image](https://github.com/sanath1515/Book-Discovery/assets/60379301/4f5bf28a-717f-459c-90c4-6dffbb210f07)
 ![image](https://github.com/sanath1515/Book-Discovery/assets/60379301/8d7c1cd5-6c3f-4b0f-bddc-9e736e6166e9)
