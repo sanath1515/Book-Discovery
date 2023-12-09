@@ -7,7 +7,7 @@
 		<relativePath/>
 		<!--  lookup parent from repository  -->
 	</parent>
-	<groupId>bootcamp22</groupId>
+	<groupId>bootcamp</groupId>
 	<artifactId>bookdiscovery</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>bookdiscovery</name>
