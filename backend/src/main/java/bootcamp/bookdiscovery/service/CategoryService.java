@@ -9,4 +9,6 @@ public interface CategoryService {
     List<CategoryDTO> findAll();
 
     CategoryDTO findByCategoryId(int categoryId);
+
+    CategoryDTO addCategory(CategoryDTO categoryDTO);
 }

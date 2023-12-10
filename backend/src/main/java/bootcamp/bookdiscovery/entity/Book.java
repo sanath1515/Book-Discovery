@@ -16,6 +16,7 @@ import java.util.List;
 @AllArgsConstructor
 public class Book {
 
+
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     @Column(name = "book_id")

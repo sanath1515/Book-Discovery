@@ -87,4 +87,17 @@ public void copyTopicHeadingProperties(TopicHeading topicHeading, TopicHeadingDT
         categoryDTO.setBookList(bookDTOList);
         return categoryDTO;
     }
+
+    @Override
+    public CategoryDTO addCategory(CategoryDTO categoryDTO) {
+        Category category = new Category();
+        category.setCategoryName(categoryDTO.getCategoryName());
+        category.setCategoryDescription(category.getCategoryDescription());
+
+        category = categoryJpa.save(category);
+
+        
+
+        return categoryDTO;
+    }
 }

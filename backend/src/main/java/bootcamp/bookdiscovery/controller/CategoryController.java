@@ -22,8 +22,10 @@ public class CategoryController {
     @GetMapping("/categories/{categoryId}")
     public CategoryDTO getCategoryById(@PathVariable int categoryId) {
             return categoryService.findByCategoryId(categoryId);
+    }
 
-
-
+    @PostMapping("/categories")
+    public CategoryDTO getCategoryById(@RequestBody CategoryDTO categoryDTO) {
+        return categoryService.addCategory(categoryDTO);
     }
 }
